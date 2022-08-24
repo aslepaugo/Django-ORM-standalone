@@ -1,0 +1,4 @@
+.flake8
+venv
+.env
+__pycache__
